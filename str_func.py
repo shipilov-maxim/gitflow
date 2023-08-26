@@ -3,4 +3,5 @@ def up_word(word):
 
 
 def up_first_char(value):
+    """возвращает первые буквы слов заглавными"""
     return value.title()

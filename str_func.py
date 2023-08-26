@@ -1,3 +1,6 @@
 def up_word(word):
-    """возвращает слово в верхнем регистре"""
     return word.upper()
+
+
+def up_first_char(value):
+    return value.title()
